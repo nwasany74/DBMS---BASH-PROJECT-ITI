@@ -102,10 +102,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 
-Acknowledgments
 
-
-Special thanks to the OpenAI team for developing GPT-3.5, which powers the ChatGPT model used to generate this README file.
 
 Authors
 
