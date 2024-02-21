@@ -82,9 +82,7 @@ delete_data.sh: Script to delete existing data from a table.
 
 DatabaseMenu.sh: Provides a menu-driven interface for performing table-related operations within a selected database.
 
-Contributing
 
-Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, feel free to submit a pull request.
 
 
 
